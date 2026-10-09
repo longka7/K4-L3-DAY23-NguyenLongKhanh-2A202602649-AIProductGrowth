@@ -24,8 +24,8 @@
 
 | Đèn | Hiện | 🟢 / 🟡 / 🔴 | Nguồn |
 |---|---|---|---|
-| **GM tiền gói** (gồm traffic free + phí Zalo khi có; không gồm overhead) | giả định 69,4% | ≥60% / 53–60% / <53% | [MH] mục tiêu giá Day 22 · [BM] ICONIQ AI-native 53% 2026P, kiểm tra 09/10/2026 |
-| **CAC / xưởng activated** (mẫu số là xưởng activated, không phải xưởng đã ký) | kịch bản 32 tr ₫ | <29,3 / 29,3–39,07 / >39,07 tr ₫ | [MH] ARPU×GM×12 tháng · [BM] SMB payback <12 tháng (Bessemer), kiểm tra 09/10/2026 |
+| **GM tiền gói** (gồm traffic free + phí Zalo khi có; không gồm overhead) | giả định 69,4% | ≥60% / 53–60% / <53% | [MH] mục tiêu giá Day 22 · [BM] ICONIQ *State of AI 2026*: GM sản phẩm AI 53% (2026P), đã mở nguồn 09/10/2026 |
+| **CAC / xưởng activated** (mẫu số là xưởng activated, không phải xưởng đã ký) | kịch bản 32 tr ₫ | <29,3 / 29,3–39,07 / >39,07 tr ₫ | [MH] ARPU×GM×12 tháng · [BM] Bessemer *Scaling to $100M*: SMB payback <12 tháng, đã mở nguồn 09/10/2026 |
 
 💰 = đèn chi phí AI · 3 Leading · 3 Operating · 2 Lagging
 
